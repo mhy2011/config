@@ -1,11 +1,12 @@
 <keymap version="1" name="Default_MHY_Windows" parent="$default">
-  <action id="CompareTwoFiles" />
-  <action id="Diff.ShowDiff" />
   <action id="EditorDuplicate" />
   <action id="EditorDuplicateLines">
     <keyboard-shortcut first-keystroke="ctrl d" />
   </action>
-  <action id="FileChooser.GotoDesktop" />
-  <action id="SendEOF" />
-  <action id="openAssertEqualsDiff" />
+  <action id="NewClass">
+    <keyboard-shortcut first-keystroke="alt c" />
+  </action>
+  <action id="NewDir">
+    <keyboard-shortcut first-keystroke="alt p" />
+  </action>
 </keymap>
