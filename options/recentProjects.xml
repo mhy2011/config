@@ -14,14 +14,25 @@
     <option name="pid" value="" />
     <option name="additionalInfo">
       <map>
+        <entry key="D:/IdeaProjects/mhy-example">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-183.5912.21" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1556432817834" />
+              <option name="buildTimestamp" value="1551181777444" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
         <entry key="D:/IdeaProjects/mhy-examples">
           <value>
             <RecentProjectMetaInfo>
               <option name="build" value="IU-183.5912.21" />
               <option name="productionCode" value="IU" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="projectOpenTimestamp" value="1556431979781" />
-              <option name="buildTimestamp" value="1551181741249" />
+              <option name="projectOpenTimestamp" value="1556434974169" />
+              <option name="buildTimestamp" value="1551181769401" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
