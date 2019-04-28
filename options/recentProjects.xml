@@ -2,19 +2,31 @@
   <component name="RecentProjectsManager">
     <option name="recentPaths">
       <list>
+        <option value="D:/IdeaProjects/go-examples" />
         <option value="D:/IdeaProjects/mhy-examples" />
         <option value="D:/IdeaProjects/prometheus-metrics" />
       </list>
     </option>
     <option name="openPaths">
       <list>
-        <option value="D:/IdeaProjects/mhy-examples" />
+        <option value="D:/IdeaProjects/go-examples" />
       </list>
     </option>
-    <option name="lastPath" value="D:/IdeaProjects/mhy-examples" />
+    <option name="lastPath" value="D:/IdeaProjects/go-examples" />
     <option name="pid" value="" />
     <option name="additionalInfo">
       <map>
+        <entry key="D:/IdeaProjects/go-examples">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-183.5912.21" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1556450976855" />
+              <option name="buildTimestamp" value="1551181774695" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
         <entry key="D:/IdeaProjects/mhy-example">
           <value>
             <RecentProjectMetaInfo>
@@ -32,7 +44,7 @@
               <option name="build" value="IU-183.5912.21" />
               <option name="productionCode" value="IU" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="projectOpenTimestamp" value="1556449422723" />
+              <option name="projectOpenTimestamp" value="1556450914083" />
               <option name="buildTimestamp" value="1551181774695" />
             </RecentProjectMetaInfo>
           </value>
