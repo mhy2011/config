@@ -3,6 +3,7 @@
     <option name="recentPaths">
       <list>
         <option value="D:/IdeaProjects/mhy-examples" />
+        <option value="D:/IdeaProjects/prometheus-metrics" />
       </list>
     </option>
     <option name="openPaths">
@@ -31,7 +32,18 @@
               <option name="build" value="IU-183.5912.21" />
               <option name="productionCode" value="IU" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="projectOpenTimestamp" value="1556437555629" />
+              <option name="projectOpenTimestamp" value="1556444964828" />
+              <option name="buildTimestamp" value="1551181782405" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/IdeaProjects/prometheus-metrics">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-183.5912.21" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1556438352588" />
               <option name="buildTimestamp" value="1551181743501" />
             </RecentProjectMetaInfo>
           </value>
