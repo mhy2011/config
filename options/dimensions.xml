@@ -24,13 +24,13 @@
     <location key="#Inspections.0.0.1366.768" x="315" y="41" />
     <location key="#com.intellij.codeInsight.template.impl.EditVariableDialog.0.0.1366.768" x="399" y="208" />
     <location key="SettingsEditor.0.0.1366.768" x="169" y="7" />
-    <size key="SettingsEditor.1366.0.1920.1080" width="859" height="714" />
+    <size key="SettingsEditor.1366.0.1920.1080" width="872" height="714" />
     <size key="new project wizard.1366.0.1920.1080" width="842" height="799" />
     <size key="GitCloneDialog.1366.0.1920.1080" width="608" height="163" />
-    <size key="GridCell.Tab.0.left.1366.0.1920.1080" width="1876" height="278" />
-    <size key="GridCell.Tab.0.center.1366.0.1920.1080" width="1876" height="278" />
-    <size key="GridCell.Tab.0.right.1366.0.1920.1080" width="1876" height="278" />
-    <size key="GridCell.Tab.0.bottom.1366.0.1920.1080" width="1876" height="278" />
+    <size key="GridCell.Tab.0.left.1366.0.1920.1080" width="1876" height="206" />
+    <size key="GridCell.Tab.0.center.1366.0.1920.1080" width="1876" height="206" />
+    <size key="GridCell.Tab.0.right.1366.0.1920.1080" width="1876" height="206" />
+    <size key="GridCell.Tab.0.bottom.1366.0.1920.1080" width="1876" height="206" />
     <size key="GridCell.Tab.0.left.0.0.1366.768" width="1322" height="206" />
     <size key="GridCell.Tab.0.center.0.0.1366.768" width="1322" height="206" />
     <size key="GridCell.Tab.0.right.0.0.1366.768" width="1322" height="206" />
@@ -38,5 +38,6 @@
     <size key="StructurePopup.1366.0.1920.1080" width="540" height="524" />
     <size key="GitCloneDialog.0.0.1366.768" width="608" height="163" />
     <size key="find.popup.1366.0.1920.1080" width="643" height="678" />
+    <size key="SettingsEditor.0.0.1366.768" width="1163" height="714" />
   </component>
 </application>
