@@ -2,6 +2,7 @@
   <component name="RecentProjectsManager">
     <option name="recentPaths">
       <list>
+        <option value="D:/PhpstormProjects/course" />
         <option value="D:/IdeaProjects/prometheus-metrics" />
         <option value="D:/goworkspace/src/github.com/goinaction/code" />
         <option value="D:/IdeaProjects/go-examples" />
@@ -16,9 +17,10 @@
       <list>
         <option value="D:/goworkspace/src/github.com/goinaction/code" />
         <option value="D:/IdeaProjects/prometheus-metrics" />
+        <option value="D:/PhpstormProjects/course" />
       </list>
     </option>
-    <option name="lastPath" value="D:/IdeaProjects/prometheus-metrics" />
+    <option name="lastPath" value="D:/PhpstormProjects/course" />
     <option name="pid" value="" />
     <option name="additionalInfo">
       <map>
@@ -72,7 +74,18 @@
               <option name="build" value="IU-183.5912.21" />
               <option name="productionCode" value="IU" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="projectOpenTimestamp" value="1557027863407" />
+              <option name="projectOpenTimestamp" value="1557039580162" />
+              <option name="buildTimestamp" value="1551181763255" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/PhpstormProjects/course">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-183.5912.21" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1557039580162" />
               <option name="buildTimestamp" value="1551181763255" />
             </RecentProjectMetaInfo>
           </value>
@@ -105,7 +118,7 @@
               <option name="build" value="IU-183.5912.21" />
               <option name="productionCode" value="IU" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="projectOpenTimestamp" value="1557027863407" />
+              <option name="projectOpenTimestamp" value="1557039580162" />
               <option name="buildTimestamp" value="1551181763255" />
             </RecentProjectMetaInfo>
           </value>
