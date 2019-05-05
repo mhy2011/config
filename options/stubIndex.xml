@@ -2,6 +2,20 @@
   <component name="FileBasedIndex">
     <option name="registeredIndices">
       <list>
+        <option value="php.namespace.shortName" />
+        <option value="php.variable.shortName" />
+        <option value="php.inheritors" />
+        <option value="php.use.referenceName" />
+        <option value="php.use.shortName" />
+        <option value="php.constant.case.sensitive.shortName" />
+        <option value="php.constant.shortName" />
+        <option value="php.function.shortName" />
+        <option value="php.classConstant.shortName" />
+        <option value="php.field.shortName" />
+        <option value="php.method.shortName" />
+        <option value="php.trait.shortName" />
+        <option value="php.interface.shortName" />
+        <option value="php.class.shortName" />
         <option value="go.type.spec.inheritance" />
         <option value="go.typeSpec.redeclared" />
         <option value="go.method.spec.inheritance" />

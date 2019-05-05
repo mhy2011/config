@@ -22,6 +22,8 @@
     <location key="FileChooserDialogImpl.0.0.1366.768" x="465" y="103" />
     <location key="find.popup.1366.0.1920.1080" x="2004" y="181" />
     <location key="#Inspections.0.0.1366.768" x="315" y="41" />
+    <location key="#com.intellij.codeInsight.template.impl.EditVariableDialog.0.0.1366.768" x="399" y="208" />
+    <location key="SettingsEditor.0.0.1366.768" x="169" y="7" />
     <size key="SettingsEditor.1366.0.1920.1080" width="859" height="714" />
     <size key="new project wizard.1366.0.1920.1080" width="842" height="799" />
     <size key="GitCloneDialog.1366.0.1920.1080" width="608" height="163" />

@@ -10,9 +10,9 @@
     <feature id="editing.completion.finishBySmartEnter" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="navigation.popup.symbol" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="find.recent.search" count="0" last-shown="0" last-used="0" shown-count="0" />
-    <feature id="editing.completion.replace" count="4" last-shown="1557028153384" last-used="1556611139945" shown-count="38" />
+    <feature id="editing.completion.replace" count="10" last-shown="1557028153384" last-used="1557040594139" shown-count="38" />
     <feature id="switcher" count="0" last-shown="0" last-used="0" shown-count="0" />
-    <feature id="codeassists.complete.statement" count="15" last-shown="0" last-used="1556607472217" shown-count="0" />
+    <feature id="codeassists.complete.statement" count="16" last-shown="0" last-used="1557040682901" shown-count="0" />
     <feature id="navigation.goto.inspection" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="editing.completion.variable.name" count="82" last-shown="0" last-used="1557028234733" shown-count="0" />
     <feature id="navigation.popup.file" count="0" last-shown="0" last-used="0" shown-count="0" />
@@ -48,12 +48,12 @@
     <feature id="navigation.popup.camelprefix" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="SearchEverywhere" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="navigation.popup.class" count="0" last-shown="0" last-used="0" shown-count="0" />
-    <feature id="editor.delete.line" count="16" last-shown="0" last-used="1557038397733" shown-count="0" />
+    <feature id="editor.delete.line" count="17" last-shown="0" last-used="1557040561944" shown-count="0" />
     <feature id="codeassists.highlight.throws" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="db.table.editor.wrapper" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="codeassists.quickdefinition" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="find.completion" count="0" last-shown="0" last-used="0" shown-count="0" />
-    <feature id="editing.completion.basic" count="299" last-shown="0" last-used="1557038530271" shown-count="0" />
+    <feature id="editing.completion.basic" count="317" last-shown="0" last-used="1557040701413" shown-count="0" />
     <feature id="tag.name.completion" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="editing.completion.second.smarttype.array.member" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="editing.completion.postfix" count="9" last-shown="0" last-used="1557038309725" shown-count="0" />
@@ -61,7 +61,7 @@
     <feature id="refactoring.introduceVariable.incompleteStatement" count="3" last-shown="0" last-used="1556505889839" shown-count="0" />
     <feature id="dir.diff" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="diagram.show.diff" count="0" last-shown="0" last-used="0" shown-count="0" />
-    <feature id="editing.select.word" count="72" last-shown="0" last-used="1557038296507" shown-count="0" />
+    <feature id="editing.select.word" count="74" last-shown="0" last-used="1557040637812" shown-count="0" />
     <feature id="editing.add.carets.using.double.ctrl" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="db.console" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="codeassists.quickjavadoc.lookup" count="0" last-shown="0" last-used="0" shown-count="0" />
@@ -83,17 +83,24 @@
     <feature id="editing.completion.changeSorting" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="codeassists.quickdefinition.lookup" count="0" last-shown="0" last-used="0" shown-count="0" />
     <completionStatsTag>
-      <option name="sparedCharacters" value="1186" />
-      <option name="invocations" value="251" />
+      <option name="sparedCharacters" value="1326" />
+      <option name="invocations" value="265" />
       <option name="startDate" value="1556380800000" />
       <option name="dayCount" value="4" />
       <option name="lastDate" value="1556985600000" />
     </completionStatsTag>
     <fixesStatsTag>
-      <option name="invocations" value="22" />
+      <option name="invocations" value="24" />
       <option name="startDate" value="1556380800000" />
       <option name="dayCount" value="4" />
       <option name="lastDate" value="1556985600000" />
     </fixesStatsTag>
+  </component>
+  <component name="PhpLanguageFeatureUsagesStatistics">
+    <project hash="d0612186">
+      <feature name="SHORT_ARRAY_SYNTAX" />
+    </project>
+    <project hash="99b27885" />
+    <project hash="792fb3ed" />
   </component>
 </application>
