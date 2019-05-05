@@ -2,28 +2,45 @@
   <component name="RecentProjectsManager">
     <option name="recentPaths">
       <list>
-        <option value="D:/IdeaProjects/go-examples" />
-        <option value="D:/IdeaProjects/mhy-examples" />
         <option value="D:/IdeaProjects/prometheus-metrics" />
+        <option value="D:/goworkspace/src/github.com/goinaction/code" />
+        <option value="D:/IdeaProjects/go-examples" />
+        <option value="D:/goworkspace/src/gopcp.v2" />
+        <option value="D:/goworkspace/go-examples" />
+        <option value="D:/goworkspace/src/github.com/clyhs/gopcp.v2" />
+        <option value="D:/goworkspace/src/github.com/goinaction/code/chapter2" />
+        <option value="D:/IdeaProjects/mhy-examples" />
       </list>
     </option>
     <option name="openPaths">
       <list>
-        <option value="D:/IdeaProjects/go-examples" />
+        <option value="D:/goworkspace/src/github.com/goinaction/code" />
+        <option value="D:/IdeaProjects/prometheus-metrics" />
       </list>
     </option>
-    <option name="lastPath" value="D:/IdeaProjects/go-examples" />
+    <option name="lastPath" value="D:/IdeaProjects/prometheus-metrics" />
     <option name="pid" value="" />
     <option name="additionalInfo">
       <map>
+        <entry key="D:/IdeaProjects/code">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-183.5912.21" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1556517946661" />
+              <option name="buildTimestamp" value="1551181772694" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
         <entry key="D:/IdeaProjects/go-examples">
           <value>
             <RecentProjectMetaInfo>
               <option name="build" value="IU-183.5912.21" />
               <option name="productionCode" value="IU" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="projectOpenTimestamp" value="1556450976855" />
-              <option name="buildTimestamp" value="1551181774695" />
+              <option name="projectOpenTimestamp" value="1556589252822" />
+              <option name="buildTimestamp" value="1551181774735" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
@@ -55,8 +72,63 @@
               <option name="build" value="IU-183.5912.21" />
               <option name="productionCode" value="IU" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="projectOpenTimestamp" value="1556438352588" />
-              <option name="buildTimestamp" value="1551181743501" />
+              <option name="projectOpenTimestamp" value="1557027863407" />
+              <option name="buildTimestamp" value="1551181763255" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/goworkspace/go-examples">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-183.5912.21" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1556525481341" />
+              <option name="buildTimestamp" value="1551181774735" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/goworkspace/src/github.com/clyhs/gopcp.v2">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-183.5912.21" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1556520195879" />
+              <option name="buildTimestamp" value="1551181774735" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/goworkspace/src/github.com/goinaction/code">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-183.5912.21" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1557027863407" />
+              <option name="buildTimestamp" value="1551181763255" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/goworkspace/src/github.com/goinaction/code/chapter2">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-183.5912.21" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1556519780153" />
+              <option name="buildTimestamp" value="1551181774735" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/goworkspace/src/gopcp.v2">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-183.5912.21" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1556525733132" />
+              <option name="buildTimestamp" value="1551181774735" />
             </RecentProjectMetaInfo>
           </value>
         </entry>

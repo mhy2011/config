@@ -3,6 +3,9 @@
   <action id="EditorDuplicateLines">
     <keyboard-shortcut first-keystroke="ctrl d" />
   </action>
+  <action id="Go.NewGoFile">
+    <keyboard-shortcut first-keystroke="alt g" />
+  </action>
   <action id="NewClass">
     <keyboard-shortcut first-keystroke="alt c" />
   </action>
