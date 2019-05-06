@@ -12,8 +12,8 @@
     <property name="build.toolwindow.Sync.selection.state" value="com.intellij.build.BuildTreeConsoleView" />
     <property name="create.project.preferred.importer" value="Existing Sources" />
     <property name="defaultJdkConfigured" value="true" />
-    <property name="file.chooser.recent.files" value="D:/IdeaProjects/prometheus-metrics&#10;D:/goworkspace/src/github.com/goinaction/code&#10;D:/PhpstormProjects/course&#10;D:/IdeaProjects&#10;D:/goworkspace/src/gopcp.v2&#10;D:/goworkspace/src/github.com/clyhs/gopcp.v2&#10;D:/goworkspace/src/github.com/goinaction/code/chapter2&#10;D:/goworkspace&#10;D:/IdeaProjects/go-examples" />
-    <property name="file.gist.reindex.count" value="56" />
+    <property name="file.chooser.recent.files" value="D:/phpworkspace/dal&#10;D:/phpworkspace/dat&#10;D:/IdeaProjects/phplib&#10;D:/IdeaProjects/stuinclass&#10;D:/IdeaProjects/icourse&#10;D:/IdeaProjects/prometheus-metrics&#10;D:/goworkspace/src/github.com/goinaction/code&#10;D:/PhpstormProjects/course&#10;D:/IdeaProjects&#10;D:/goworkspace/src/gopcp.v2&#10;D:/goworkspace/src/github.com/clyhs/gopcp.v2&#10;D:/goworkspace/src/github.com/goinaction/code/chapter2&#10;D:/goworkspace&#10;D:/IdeaProjects/go-examples" />
+    <property name="file.gist.reindex.count" value="6670" />
     <property name="fileTypeChangedCounter" value="1" />
     <property name="go.last.update.timestamp" value="1557027573889" />
     <property name="go.libraries.notification.had.been.shown" value="true" />

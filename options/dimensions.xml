@@ -24,6 +24,9 @@
     <location key="#Inspections.0.0.1366.768" x="315" y="41" />
     <location key="#com.intellij.codeInsight.template.impl.EditVariableDialog.0.0.1366.768" x="399" y="208" />
     <location key="SettingsEditor.0.0.1366.768" x="169" y="7" />
+    <location key="StructurePopup.0.0.1366.768" x="404" y="93" />
+    <location key="search.everywhere.popup.0.0.1366.768" x="339" y="5" />
+    <location key="find.popup.0.0.1366.768" x="361" y="25" />
     <size key="SettingsEditor.1366.0.1920.1080" width="872" height="714" />
     <size key="new project wizard.1366.0.1920.1080" width="842" height="799" />
     <size key="GitCloneDialog.1366.0.1920.1080" width="608" height="163" />
@@ -39,5 +42,9 @@
     <size key="GitCloneDialog.0.0.1366.768" width="608" height="163" />
     <size key="find.popup.1366.0.1920.1080" width="643" height="678" />
     <size key="SettingsEditor.0.0.1366.768" width="1163" height="714" />
+    <size key="search.everywhere.popup.1366.0.1920.1080" width="672" height="676" />
+    <size key="StructurePopup.0.0.1366.768" width="540" height="524" />
+    <size key="search.everywhere.popup.0.0.1366.768" width="672" height="676" />
+    <size key="find.popup.0.0.1366.768" width="643" height="678" />
   </component>
 </application>
