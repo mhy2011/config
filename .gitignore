@@ -2,5 +2,7 @@ tasks/
 options/recentProjects.xml
 options/window.manager.xml
 options/KeyPromoterXStatistic.xml
+options/updates.xml
+options/usage.statistics.xml
 terminal/
 port

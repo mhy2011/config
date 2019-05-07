@@ -13,7 +13,7 @@
     <location key="FileChooserDialogImpl.1366.0.1920.1080" x="2106" y="273" />
     <location key="#com.intellij.codeInsight.template.impl.EditVariableDialog.1366.0.1920.1080" x="1995" y="264" />
     <location key="#Live_Templates.1366.0.1920.1080" x="1551" y="121" />
-    <location key="search.everywhere.popup.1366.0.1920.1080" x="1989" y="225" />
+    <location key="search.everywhere.popup.1366.0.1920.1080" x="2095" y="501" />
     <location key="#GOPATH.1366.0.1920.1080" x="2118" y="177" />
     <location key="StructurePopup.1366.0.1920.1080" x="2047" y="249" />
     <location key="GitCloneDialog.0.0.1366.768" x="413" y="282" />
@@ -27,7 +27,7 @@
     <location key="StructurePopup.0.0.1366.768" x="404" y="93" />
     <location key="search.everywhere.popup.0.0.1366.768" x="339" y="5" />
     <location key="find.popup.0.0.1366.768" x="361" y="25" />
-    <size key="SettingsEditor.1366.0.1920.1080" width="872" height="714" />
+    <size key="SettingsEditor.1366.0.1920.1080" width="1024" height="714" />
     <size key="new project wizard.1366.0.1920.1080" width="842" height="799" />
     <size key="GitCloneDialog.1366.0.1920.1080" width="608" height="163" />
     <size key="GridCell.Tab.0.left.1366.0.1920.1080" width="1876" height="206" />
@@ -38,12 +38,12 @@
     <size key="GridCell.Tab.0.center.0.0.1366.768" width="1322" height="206" />
     <size key="GridCell.Tab.0.right.0.0.1366.768" width="1322" height="206" />
     <size key="GridCell.Tab.0.bottom.0.0.1366.768" width="1322" height="206" />
-    <size key="StructurePopup.1366.0.1920.1080" width="540" height="524" />
+    <size key="StructurePopup.1366.0.1920.1080" width="582" height="524" />
     <size key="GitCloneDialog.0.0.1366.768" width="608" height="163" />
     <size key="find.popup.1366.0.1920.1080" width="643" height="678" />
     <size key="SettingsEditor.0.0.1366.768" width="1163" height="714" />
-    <size key="search.everywhere.popup.1366.0.1920.1080" width="672" height="676" />
-    <size key="StructurePopup.0.0.1366.768" width="540" height="524" />
+    <size key="search.everywhere.popup.1366.0.1920.1080" width="947" height="676" />
+    <size key="StructurePopup.0.0.1366.768" width="582" height="524" />
     <size key="search.everywhere.popup.0.0.1366.768" width="672" height="676" />
     <size key="find.popup.0.0.1366.768" width="643" height="678" />
   </component>

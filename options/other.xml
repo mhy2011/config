@@ -7,15 +7,15 @@
     <property name="InstalledPluginsSearchHistory" value="Debugger" />
     <property name="JUnitSupport.hidePassedTests" value="false" />
     <property name="KEYMAP" value="go&#10;package&#10;class&#10;duplicate&#10;dup" />
-    <property name="SettingsSearchHistory" value="Live&#10;go&#10;System&#10;Editor Tabs&#10;Keym" />
-    <property name="TrendingPluginsSearchHistory" value="php&#10;Jindent-Source Code Formatter&#10;Rainbow Brackets&#10;Key Promoter X&#10;GenerateAllSetter" />
+    <property name="SettingsSearchHistory" value="terminal&#10;Live&#10;go&#10;System&#10;Editor Tabs" />
+    <property name="TrendingPluginsSearchHistory" value="uml&#10;php&#10;Jindent-Source Code Formatter&#10;Rainbow Brackets&#10;Key Promoter X" />
     <property name="build.toolwindow.Sync.selection.state" value="com.intellij.build.BuildTreeConsoleView" />
     <property name="create.project.preferred.importer" value="Existing Sources" />
     <property name="defaultJdkConfigured" value="true" />
-    <property name="file.chooser.recent.files" value="D:/phpworkspace/dal&#10;D:/phpworkspace/dat&#10;D:/IdeaProjects/phplib&#10;D:/IdeaProjects/stuinclass&#10;D:/IdeaProjects/icourse&#10;D:/IdeaProjects/prometheus-metrics&#10;D:/goworkspace/src/github.com/goinaction/code&#10;D:/PhpstormProjects/course&#10;D:/IdeaProjects&#10;D:/goworkspace/src/gopcp.v2&#10;D:/goworkspace/src/github.com/clyhs/gopcp.v2&#10;D:/goworkspace/src/github.com/goinaction/code/chapter2&#10;D:/goworkspace&#10;D:/IdeaProjects/go-examples" />
-    <property name="file.gist.reindex.count" value="6670" />
+    <property name="file.chooser.recent.files" value="C:/Program Files/Git/bin/bash.exe&#10;D:/goworkspace/src/achilles&#10;D:/goworkspace/achilles&#10;D:/phpworkspace/phplib&#10;D:/phpworkspace/course&#10;D:/phpworkspace/hkzb&#10;D:/phpworkspace/dal&#10;D:/phpworkspace/dat&#10;D:/IdeaProjects/phplib&#10;D:/IdeaProjects/stuinclass&#10;D:/IdeaProjects/icourse&#10;D:/IdeaProjects/prometheus-metrics&#10;D:/goworkspace/src/github.com/goinaction/code&#10;D:/PhpstormProjects/course&#10;D:/IdeaProjects&#10;D:/goworkspace/src/gopcp.v2&#10;D:/goworkspace/src/github.com/clyhs/gopcp.v2&#10;D:/goworkspace/src/github.com/goinaction/code/chapter2&#10;D:/goworkspace&#10;D:/IdeaProjects/go-examples" />
+    <property name="file.gist.reindex.count" value="15333" />
     <property name="fileTypeChangedCounter" value="1" />
-    <property name="go.last.update.timestamp" value="1557027573889" />
+    <property name="go.last.update.timestamp" value="1557194250368" />
     <property name="go.libraries.notification.had.been.shown" value="true" />
     <property name="installed.kotlin.plugin.version" value="1.3.11-release-IJ2018.3-1" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
