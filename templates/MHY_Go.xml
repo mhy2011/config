@@ -18,4 +18,15 @@
       <option name="GO_STATEMENT" value="true" />
     </context>
   </template>
+  <template name="pln" value="fmt.Println($END$)" description="println" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="GO_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="pf" value="fmt.Printf(&quot;$END$\n&quot;,$VAR$)" description="printf" toReformat="true" toShortenFQNames="true">
+    <variable name="VAR" expression="complete()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="GO_STATEMENT" value="true" />
+    </context>
+  </template>
 </templateSet>
