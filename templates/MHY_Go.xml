@@ -29,4 +29,21 @@
       <option name="GO_STATEMENT" value="true" />
     </context>
   </template>
+  <template name="id" value="ID uint64" description="ID" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="GO" value="true" />
+    </context>
+  </template>
+  <template name="table" value="func ($TYPE_1$) TableName() string {   &#10; return $END$&#10;}" description="table method" toReformat="true" toShortenFQNames="true">
+    <variable name="TYPE_1" expression="complete()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="GO_FILE" value="true" />
+    </context>
+  </template>
+  <template name="gfunc" value="func $NAME$(c *gin.Context) {   &#10;    $END$&#10;}" description="gin func" toReformat="true" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="GO_FILE" value="true" />
+    </context>
+  </template>
 </templateSet>
